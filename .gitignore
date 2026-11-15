@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Model artifacts
+*.joblib
+*.keras
+*.h5
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
